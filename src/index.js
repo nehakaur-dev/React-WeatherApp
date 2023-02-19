@@ -9,7 +9,7 @@ root.render(
   <React.StrictMode>
     <App />
     <footer>
-    Open source code by <a>Neha kaur</a>
+    Open source code by <a href='https://github.com/nehakaur-dev/React-WeatherApp'>Neha kaur</a>
     </footer>
   </React.StrictMode>
 );
